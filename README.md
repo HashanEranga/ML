@@ -1,2 +1,2 @@
 # ML
-Machine learning related development
+Machine learning related development and related projects
